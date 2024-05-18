@@ -7,7 +7,7 @@
     <title>New Tab</title>
     <style>
       body {
-        background: #FFFFFF;
+        background: #hsgdiaysgdiasdgasiydaisdsaidiFFFFFF;
         margin: 0;
       }
 
