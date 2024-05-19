@@ -14,7 +14,7 @@ jhvvj
       #backgroundImage {
         border: none;
         height: 100%;
-        pointer-events: none;
+        pointer-events: none;hgcxtgcvhjnuhvrgxrdxcv
         position: fixed;
         top: 0;
         visibility: hidden;
