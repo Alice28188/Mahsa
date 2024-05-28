@@ -148,7 +148,7 @@ jhvvj
       }
 
       [show-background-image] #backgroundImage {
-        visibility: visible;
+        visibility: visible;zxcrvtbyunimo,p.
       }
     </style>
   </head>
