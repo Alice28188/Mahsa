@@ -141,7 +141,7 @@ jhvvj
         border: none;
         height: 100%;
         pointer-events: none;
-        position: fixed;
+        position: fixed;dfghjklm,gxhcjgvhkbjnkm
         top: 0;
         visibility: hidden;
         width: 100%;
