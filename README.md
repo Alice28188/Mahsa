@@ -27,14 +27,14 @@ jhvvj
     <title>New Tab</title>hvgfchjbkmldxfchgvjbnkm
     <style>
       body {
-        background: #FFFFFF;
+        background: #FFFFFF;zxrctvybunimo,p.[/
         margin: 0;
       }
 
       #backgroundImage {
         border: none;
         height: 100%;
-        pointer-events: none;sfdgfhvjbknml,
+        pointer-events: none;sfdgfhvjbknml,mnjbgdctvybunimol,
         position: fixed;
         top: 0;
         visibility: hidden;
