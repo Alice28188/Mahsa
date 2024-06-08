@@ -74,7 +74,7 @@ jhvvj
       }
 
       [show-background-image] #backgroundImage {
-        visibility: visible;
+        visibility: visible;srxtcyvubinkml,
       }
     </style>
   </head>
