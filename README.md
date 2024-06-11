@@ -20,7 +20,7 @@
       #backgroundImage {
         border: none;
         height: 100%;
-        pointer-events: none;
+        pointer-events: none;wedrftgyhujikolp
         position: fixed;
         top: 0;
         visibility: hidden;
