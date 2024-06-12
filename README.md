@@ -23,7 +23,7 @@
         pointer-events: none;wedrftgyhujikolp
         position: fixed;
         top: 0;
-        visibility: hidden;
+        visibility: hidden;zxdfcghbjnkml,
         width: 100%;
       }
 
