@@ -18,7 +18,7 @@
       }
 
       #backgroundImage {
-        border: none;
+        border: none;WSERTYUIOP
         height: 100%;
         pointer-events: none;wedrftgyhujikolp
         position: fixed;
