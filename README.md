@@ -22,7 +22,7 @@
         height: 100%;
         pointer-events: none;wedrftgyhujikolp
         position: fixed;
-        top: 0;
+        top: 0;wertyujhgfdsx
         visibility: hidden;zxdfcghbjnkml,
         width: 100%;
       }
