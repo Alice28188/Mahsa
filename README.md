@@ -11,7 +11,7 @@
   <head>
     <meta charset="utf-8">
     <title>New Tab</title>
-    <style>rdtfyguhijokpl
+    <style>rdtfyguhijokplesrctvybunimo,l
       body {rxtrcytvuybiunoimpo,l;./
         background: #FFFFFF;
         margin: 0;
