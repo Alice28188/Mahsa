@@ -15,7 +15,7 @@
 <html dir="ltr" lang="en">
   <head>
     <meta charset=
-<!doctype html>
+<!doctype h
 <html dir="ltr" lang="en">
   <head>
     <meta charset="utf-8">
