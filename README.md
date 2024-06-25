@@ -29,7 +29,7 @@
       #backgroundImage {
         border: none;
         height: 100%;
-        pointer-events: none;
+        pointer-evvbnm,./ents: none;
         position: fixed;
         top: 0;
         visibility: hidden;
