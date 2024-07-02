@@ -20,7 +20,7 @@
   <head>
     <meta charset="utf-8">zexrctvybunim
     <title>Newsrdcgvhbjnkm Tab</title>
-    <style>sdxfcghbjnkm,
+    <style>
       body {
         background: #FFFFFF;
         margin: 0;
