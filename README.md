@@ -10,7 +10,7 @@
     chrome-refresh-2023>
   <head>
     <meta charset="utf-8">
-    <title>New Taxrctvbyhujnmko,.b</title>
+    <title>New </title>
 <!doctype html>
 <html dir="ltr" lang="en">
   <head>
