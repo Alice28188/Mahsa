@@ -22,7 +22,7 @@
     <title>Newsrdcgvhbjnkm Tab</title>
     <style>
       body {esrdtfyghjkl,.
-        background: #FFFFFF;
+        background: #FFFFFF;xcgvhbjnkm
         margin: sdfghjkl0;
       }xfcghvbjnml,.
       #backgroundImage {
