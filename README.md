@@ -22,7 +22,7 @@
     <title>Tab</title>asZdftghujkl
     <style>
       body ,.
-        background: #FFFFFF;xcgvhbjnkm
+        background: 
         margin: ;
       }xfcghvbjnml,.
       #backgroundImaexrctvybunm,ge {
