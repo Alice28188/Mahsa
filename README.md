@@ -18,7 +18,7 @@
   <head>
     <meta charset="utf-8">
     <title>New Tab</title>
-    <style>
+    <style>dfghjkl;
       body {
         background: #FFFFFF;
         margin: 0;
