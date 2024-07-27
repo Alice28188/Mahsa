@@ -106,6 +106,21 @@
         visibility: visible;
       }
     </style>
+  <head>
+    <meta charset="utf-8">
+    <title>New </title>
+<!doctype html>
+<html dir="ltr" lang="en">a
+<!doctype html>
+<html dir="ltr" lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>New Tab</title>
+    <style>dfghjkl;
+      body {
+        background: #FFFFFF;
+        margin: 0;
+     
   </head>
   <body>
     <iframe id="backgroundImage" src=""></iframe>
