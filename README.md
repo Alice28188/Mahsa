@@ -75,6 +75,26 @@
       }
     </style>
   </head>
+    chrome-refresh-2023>
+  <head>
+    <meta charset="utf-8">d
+    <title>New Tab</title>
+<!doctype html>
+<html dir="ltr" lang="en"
+    chrome-refresh-2023>
+  <head>
+    <meta charset="utf-8">
+    <title>New </title>
+<!doctype html>
+<html dir="ltr" lang="en">a
+<!doctype html>
+<html dir="ltr" lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>New Tab</title>
+    <style>dfghjkl;
+      body {
+        ba
   <body>
     <iframe id="backgroundImage" src=""></iframe>
     <ntp-app></ntp-app>
