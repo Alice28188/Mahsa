@@ -74,6 +74,11 @@
         visibility: visible;
       }
     </style>
+<!doctype html>
+<html dir="ltr" lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>New Tab</t
   </head>
     chrome-refresh-2023>
   <head>
