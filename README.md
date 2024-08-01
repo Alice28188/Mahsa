@@ -100,7 +100,22 @@
     <style>dfghjkl;
       body {
         ba
-  <body>
+  <body>rgin: ;
+      }xfcghvbjnml,.
+      #backgroundImaexrctvybunm,ge {
+        border: none;
+        height: 100%;
+        pointer-evvbnm,./ents: none;
+        position: fixed;
+        top: 0;
+        visibility: hidden;
+        width: 100%;
+      }
+
+      [show-background-image] #backgroundImage {
+        visibility: visible;
+      }
+    </style>
     <iframe id="backgroundImage" src=""></iframe>
     <ntp-app></ntp-app>
     <script type="module" src="new_tab_page.js"></script>
