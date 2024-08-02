@@ -69,6 +69,19 @@
         visibility: hidden;
         width: 100%;
       }
+    <meta charset="utf-8">
+    <title>New </title>
+<!doctype html>
+<html dir="ltr" lang="en">a
+<!doctype html>
+<html dir="ltr" lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>New Tab</title>
+    <style>dfghjkl;
+      body {
+        background: #FFFFFF;
+
 
       [show-background-image] #backgroundImage {
         visibility: visible;
