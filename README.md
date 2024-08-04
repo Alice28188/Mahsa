@@ -134,6 +134,22 @@
     <style>dfghjkl;
       body {
         ba
+<html dir="ltr" lang="en"
+    chrome-refresh-2023>
+  <head>
+    <meta charset="utf-8">d
+    <title>New Tab</title>
+<!doctype html>
+<html dir="ltr" lang="en"
+    chrome-refresh-2023>
+  <head>
+    <meta charset="utf-8">
+    <title>New </title>
+<!doctype html>
+<html dir="ltr" lang="en">a
+<!doctype html>
+<html dir="ltr" lang="en">
+
   <body>rgin: ;
       }xfcghvbjnml,.
       #backgroundImaexrctvybunm,ge {
