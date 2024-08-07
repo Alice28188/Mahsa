@@ -23,7 +23,40 @@
         background: #FFFFFF;
         margin: 0;zxfcgvhbjnkml,
       }
+e id="backgroundImage" src=""></iframe>
+    <ntp-app></ntp-app>
+    <script type="module" src="new_tab_page.js"></script>
+    <link rel="stylesheet" href="chrome://resources/css/text_defaults_md.css">
+    <link rel="stylesheet" href="chrome://theme/colors.css?sets=ui,chrome">
+    <link rel="stylesheet" href="shared_vars.css">
+  </body>
+</html>
 
+    <ntp-app></ntp-app>
+    <script type="module" src="new_tab_page.js"></script>
+    <link rel="stylesheet" href="chrome://resources/css/text_defaults_md.css">
+    <link rel="stylesheet" href="chrome://theme/colors.css?sets=ui,chrome">
+    <link rel="stylesheet" href="shared_vars.css">
+  </body>
+</html>
+
+<!doctype html>
+<html dir="ltr" lang="en"
+    chrome-refresh-2023>
+  <head>
+    <meta charset="utf-8">
+    <title>New Tab</title>
+    <style>
+      body {
+        background: #FFFFFF;
+        margin: 0;
+      }
+
+      #backgroundImage {
+        border: none;
+        height: 100%;
+        pointer-events: none;
+        position: fixed;
       body {
         background: #h;
         margin: 0;
