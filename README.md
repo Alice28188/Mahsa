@@ -81,7 +81,7 @@ jhvvj
         top: 0;
         visibility: hidden;
         width: 100%;
-      }
+      }rtvbyunmi,op
 
       [show-background-image] #backgroundImage {
         visibility: visible;
