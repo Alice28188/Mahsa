@@ -21,7 +21,7 @@
     <style>dfghjkl;aSZxdfcvbhnm,.
       body {
         background: #FFFFFF;
-        margin: 0;zxfcgvhbjnkml,
+        margin: 0;zxfcgvhbjnkml,xcgvhbjnkml,
       }
 e id="backgroundImage" src=""></iframe>
     <ntp-app></ntp-app>
