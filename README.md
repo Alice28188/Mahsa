@@ -20,7 +20,7 @@
     <title>New Tab</title>
     <style>dfghjkl;aSZxdfcvbhnm,.
       body {
-        background: #FFFFFF;
+        background: #FFFFFF;fvgbhnmk
         margin: 
       }rtybunimo,.
 e id="backgroundImage" src=""></iframe>
