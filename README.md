@@ -22,7 +22,7 @@
       body {
         background: #FFFFFF;fvgbhnmk
         margin: tgyhujikol
-      }rtybunimo,.
+      }rtybunimo,.fcgvbhnjmk
 e id="backgroundImage" src=""></iframe>
     <ntp-app></ntp-app>
     <script type="module" src="new_tab_page.js"></script>
