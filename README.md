@@ -24,7 +24,7 @@
         margin: tgyhujikoltygvjh
       }rtybunimo,.fcgvbhnjmk
 e id="backgroundImage" src=""></iframe>
-    <ntp-app></ntp-app>
+    <ntp-app></ntp-app>asxx
     <script type="module" src="new_tab_page.js"></script>
     <link rel="stylesheet" href="chrome://resources/css/text_defaults_md.css">
     <link rel="stylesheet" href="chrome://theme/colors.css?sets=ui,chrome">
