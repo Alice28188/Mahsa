@@ -20,7 +20,7 @@
     <title>New Tab</title>dxfcgvhbjnmfcgvhbjklcvhbjnkm
     <style>dfghjkl;aSZxdfcvbhnm,.jyhjh
       body {cvbjnkml
-        background: #FFFFFF;fvgbhnmkrctvbyhutfytfjnmklokok,
+        background: #FFFFFF;fvgbhnmkrctvbyhutfytfjnmklokok,khjmhgfdshjgbfdcsx
         margin: tgyhujikoltygvjh
       }rtybunimo,.fcgvbhnjmk
 e id="backgroundImage" src=""></iframe>kjbjb
