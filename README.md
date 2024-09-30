@@ -29,7 +29,7 @@ e id="backgroundImage" src=""></iframe>kjbjb
     <link rel="stylesheet" href="chrome://resources/css/text_defaults_md.css">vhjhvjh
     <link rel="stylesheet" href="chrome://theme/colors.css?sets=ui,chrome">
     <link rel="stylesheet" href="shared_vars.css">
-  </body>
+  </body>kmk
 </html>
 
     <ntp-app></ntp-app>
