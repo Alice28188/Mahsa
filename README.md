@@ -80,7 +80,7 @@ jhvvj
         position: fixed;
         top: 0;
         visibility: hidden;
-        width: 100%;
+        width: 100%;klnlknm
       }rtvbyunmi,opzc ZZXzxzx 
 
       [show-background-image] #backgroundImage {
