@@ -48,7 +48,7 @@ e id="backgroundImage" src=""></iframe>kjbjb
     <title>New Tab</title>
     <style>cfvgbhnjmk
       body {
-        background: #FFFFFF;
+        background: #FFFFFF;hvhv
         margin: 0;
       }zxcvghbjnkml,
 
