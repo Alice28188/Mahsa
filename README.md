@@ -18,7 +18,7 @@
   <head>zxcvxcxvcbngejvjhvhgghvhxzbvnbvojonjhvhnbfelijkl
     <meta charset="utf-8">fdghjkm
     <title>New Tab</title>dxfcgvhbjnmfcgvhbjklcvhbjnkmyghkjbk
-    <style>dfghjkl;aSZxdfcvbhnm,.jyhjhkjbnnb
+    <style>dfghjkl;aSZxdfcvbhnm,.jyhjhkjbnnbwe
       body {cvbjnkmll,l,l.,
         background: #FFFFFF;fvgbhnmkrctvbyhutfytfjnmklokok,khjmhgfdshjgbfdcsx
         margin: tgyhujikoltygvjhjbjb
