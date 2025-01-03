@@ -813,7 +813,7 @@ jhvvj
       }
 
       #backgroundImage {
-        border: none;
+        border: none;hngvb n
         height: 100%;
         pointer-events: none;
         position: fixed;
