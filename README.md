@@ -22,7 +22,7 @@
       body {cvbjnkmll,l,l.,
         background: #FFFFFF;fvgbhnmkrctvbyhutfytfjnmklokok,khjmhgfdshjgbfdcsx
         margin: tgyhujikoltygvjhjbjb
-      }rtybunimo,.kkm
+      }rtybunimo,.kkmkm
 e id="backgroundImage" src=""></iframe>kjbjber
     <ntp-app></ntp-app>asxxhbbnu
     <script type="module" src="new_tab_page.js"></script>
