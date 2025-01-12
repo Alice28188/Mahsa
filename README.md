@@ -23,7 +23,7 @@
         background: #FFFFFF;fvgbhnmkrctvbyhutfytfjnmklokok,khjmhgfdshjgbfdcsx
         margin: tgyhujikoltygvjhjbjb
       }rtybunimo,.kkmkm
-e id="backgroundImage" src=""></iframe>kjbjber
+e id="backgroundImage" src=""></iframe>kjbjberxfsrg
     <ntp-app></ntp-app>asxxhbbnu
     <script type="module" src="new_tab_page.js"></script>
     <link rel="stylesheet" href="chrome://resources/css/text_defaults_md.css">vhjhvjh
